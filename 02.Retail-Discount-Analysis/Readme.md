@@ -1,6 +1,7 @@
 # Project 2: Discount Impact on Coffee Shop Revenue
 
 Dashboard link: https://public.tableau.com/views/Retail_Analysis_17911731642390/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Google Sheets Link: https://docs.google.com/spreadsheets/d/1LZugdyf5McV1Jmy1dj4Wnak7DK4EyrZfyFKj45peQZw/edit?usp=sharing
 
 ## Context
