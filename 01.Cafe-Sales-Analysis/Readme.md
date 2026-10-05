@@ -1,8 +1,10 @@
--- Context
-First portfolio project. Goal: get comfortable with the full flow — 
+--Context
+
+First portfolio project with goals of: get comfortable with the full flow — 
 clean → explore → analyze → visualize — on a messy coffee shop dataset.
 
 Dashboard link:https://public.tableau.com/views/Cafe_Sales_17882417552310/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Google Sheets Link: https://docs.google.com/spreadsheets/d/1LSbvcamPsdxEnOT8mopPm2ZJkjggn8a7q5IK0czhJJ8/edit?usp=sharing
 
 -- Question
